@@ -19,7 +19,7 @@ blueprint:
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
   preheading: Our works
-  heading: We have done lots of works, lets check some
+  heading: We have done lots of work, lets check some
   projects:
     - name: Project California
       image_path: /images/portfolio/1.jpg

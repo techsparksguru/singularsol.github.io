@@ -12,8 +12,8 @@ content_blocks:
     email: sales@singularsol.com 
     phone: +1 919.491.1239
     linkedin: pradeepmacharla
-#  - _bookshop_name: "map"
-#    latitude: 35.61396
-#    longitude: -78.87697
-#    name: "SingularSol"
+  # - _bookshop_name: "map"
+  #   latitude: 35.61396
+  #   longitude: -78.87697
+  #   name: "SingularSol"
 ---

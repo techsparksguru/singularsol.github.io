@@ -32,18 +32,18 @@ content_blocks:
       url: "#"
   - _bookshop_name: "counter"
     numbers:
-      - number: 1730
+      - number: 100
         suffix: "+"
         text: "Projects Done"
-      - number: 125
-        suffix: "M"
-        text: "Users Worldwide"
-      - number: 39
+      - number: 5
         suffix: ""
+        text: "Active Projects"
+      - number: 2
+        suffix: "+"
         text: "Available Countries"
-      - number: 14
-        suffix: ""
-        text: "Awards Won"
+      - number: 500
+        suffix: "+"
+        text: "Staff Augmented"
   - _bookshop_name: "services"
     preheading: "Our Services"
     heading: "We provide a wide range of services"
