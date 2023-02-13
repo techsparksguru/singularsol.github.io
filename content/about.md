@@ -6,7 +6,7 @@ hero:
 content_blocks:
   - _bookshop_name: "start"
     preheading: "What we are"
-    heading: "We are a dynamic team of creative people"
+    heading: "We are a dynamic team of problem solvers"
     text: "We provide strategic, consulting and technical expertise in multiple domains. At the same time we are focused on building & customizing LLM (large language models) in the AI/ML space."
     image_path: "/images/bg/home-7.jpg"
     button:
