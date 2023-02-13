@@ -11,12 +11,12 @@ menu:
   - name: "Portfolio"
     url: "/portfolio/"
     open_in_new_tab: false
-  - name: "Pricing"
-    url: "/pricing/"
-    open_in_new_tab: false
-  - name: "Blog"
-    url: "/blog/"
-    open_in_new_tab: false
+  #- name: "Pricing"
+  #  url: "/pricing/"
+  #  open_in_new_tab: false
+  #- name: "Blog"
+  #  url: "/blog/"
+  #  open_in_new_tab: false
   - name: "Contact"
     url: "/contact/"
     open_in_new_tab: false

@@ -7,7 +7,7 @@ content_blocks:
     background_image: "/images/bg/home-1.jpg"
     link:
       text: "Get started"
-      url: "#"
+      url: "/contact"
   - _bookshop_name: "intro"
     preheading: "We are what we speak"
     heading: "We are customer collaborators first , then only contract negotiators"
