@@ -9,7 +9,7 @@ content_blocks:
     heading: "Don’t Hesitate to contact with us for any kind of information"
     form_heading: "Contact Form"
     address: "Holly Springs, North Carolina, USA"
-    email: sales@singularsol.com 
+    email: pradeep@automationpractice.com 
     phone: +1 919.491.1239
     linkedin: pradeepmacharla
   # - _bookshop_name: "map"
