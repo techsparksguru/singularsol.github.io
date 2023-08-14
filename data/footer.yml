@@ -21,9 +21,6 @@ column:
       - name: "Services"
         url: "/services/"
         open_in_new_tab: false
-      - name: "Blogs"
-        url: "/blog/"
-        open_in_new_tab: false
       - name: "Contact"
         url: "/contact/"
         open_in_new_tab: false
